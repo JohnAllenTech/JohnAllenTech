@@ -1,3 +1,6 @@
+
+[![An image of @johnallentech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/johnallentech)](https://holopin.io/@johnallentech)
+
 - 👋 Hi, I’m John
 - 👀 I’m interested in ... ClimaTech, React, Fastify, AuthZ, AuthN and Graph Databases
 - 🌱 I’m currently learning ... Next.js and actively contributing to [Codu](https://github.com/codu-code/codu)
